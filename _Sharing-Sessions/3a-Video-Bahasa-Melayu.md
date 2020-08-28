@@ -141,7 +141,7 @@ Manager, Education</p>
          <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Sinopsis</h4>  
        <p  style="margin:10px;"><strong>Ayuh, Teroka Taman Haiwan Singapura…Melalui Alam Siber!</strong><br/>
       Dengan perkembangan teknologi, pembelajaran bahasa ibunda boleh menjadi lebih mudah dan seronok dengan kaedah pembelajaran teradun. 
-Melalui sesi perkongsian Webinar ini, peserta dapat belajar cara menggunakan topik-topik tentang haiwan dalam pengajaran dan pembelajaran bahasa Melayu. Peserta akan dibawa ke alam maya Taman Haiwan Singapura untuk berjumpa dengan duta haiwan. Penggunaan gambar, video dan buku audio yang telah direka khas Taman Haiwan Singapura diharap dapat menarik perhatian peserta, khususnya kanak-kanak.  Peserta juga akan didedahkan kepada konsep pendidikan berpusatkan kanak-kanak bagi mencungkil sifat ingin tahu mereka. <br/>
+Melalui sesi perkongsian Webinar ini, peserta dapat belajar cara menggunakan topik-topik tentang haiwan dalam pengajaran dan pembelajaran bahasa Melayu. Peserta akan dibawa ke alam maya Taman Haiwan Singapura untuk berjumpa dengan duta haiwan. Penggunaan gambar, video dan buku audio yang telah direka khas oleh Taman Haiwan Singapura diharap dapat menarik perhatian peserta, khususnya kanak-kanak.  Peserta juga akan didedahkan kepada konsep pendidikan berpusatkan kanak-kanak bagi mencungkil sifat ingin tahu mereka. <br/>
 Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik darjah. Pengajaran dan pembelajaran secara autentik ini dapat membina kemahiran asas bahasa dan literasi yang terdapat  dalam Rangka Kerja Bahasa Ibunda MOE dan ECDA.
 </p><br/>  
  <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profile</h4>   
